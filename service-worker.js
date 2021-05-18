@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b339b283ec0b6c42787b6c31a40b5a7a.js"
+  "/precache-manifest.f07386b651718eef046b3bdeecc7c015.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sgss-radio-pwa"});
